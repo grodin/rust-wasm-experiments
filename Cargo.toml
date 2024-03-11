@@ -1,0 +1,8 @@
+[package]
+name = "rust-wasm-experiments"
+version = "0.1.0"
+authors = ["Joseph Coope <cooper.joseph@gmail.com>"]
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
